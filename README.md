@@ -41,7 +41,7 @@ scout-assistant/
 
 **1. Clone the repo and create a virtual environment**
 ```bash
-git clone https://github.com/your-username/scout-assistant.git
+git clone https://github.com/Mehdi010204/Scout-Assistant.git
 cd scout-assistant
 python -m venv venv
 venv\Scripts\activate       # Windows
