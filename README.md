@@ -83,4 +83,4 @@ To use it:
 
 ## Supported leagues
 
-Currently configured for the **Premier League (2024/2025)**. Other leagues supported by football-data.org can be added by modifying the API calls in `scraper.py`.
+Currently configured for the **Premier League (2025/2026)**. Other leagues supported by football-data.org can be added by modifying the API calls in `scraper.py`.
